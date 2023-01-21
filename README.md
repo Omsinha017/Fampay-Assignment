@@ -62,7 +62,6 @@ Install dependencies
 
 Setup the Database
 ```bash
-  python3 manage.py makemigration
   python3 manage.py migrate
 ```
 
