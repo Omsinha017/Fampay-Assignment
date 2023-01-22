@@ -87,3 +87,8 @@ To access the dashboard checkout http://127.0.0.1:8000/admin
 
 
 ![Save Youtube API Key](https://drive.google.com/uc?export=view&id=1NvKj2WwiSGj7qqRJ_k1WP_jSZEHjT2u8)
+
+
+### Postman Collection 
+
+Click [here](https://api.postman.com/collections/12528487-25eb4531-0e46-4e4d-9ff5-fe83417b435a?access_key=PMAT-01GQBVX8K6V3Z709J5SNTMBXD4) to get the postman collection.
