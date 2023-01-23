@@ -41,7 +41,6 @@ class FetchAndStoreYouTubeSearchData(View):
             'key':youtube_api_key.key
         }
         try:
-            import pdb; pdb.set_trace()
             get_youtube_search_response = requests.get(YOTUBE_SEARCH_URL, SEARCH_PARAMS)
             search_response = json.loads(get_youtube_search_response.content).get('items', [])
         except:
